@@ -16,8 +16,7 @@ p using_sort (array)
 def using_reverse(array)
   array.reverse 
 end
-
-p using_reverse 
+p using_reverse (array)
 
 
 def using_first(array)
