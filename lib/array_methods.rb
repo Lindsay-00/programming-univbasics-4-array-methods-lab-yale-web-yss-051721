@@ -7,9 +7,10 @@ using_include array, "Tardis"
 
 
 def using_sort(array)
-  array.sort
+  array.sort 
 end
 array = ["wow", "I", "am", "really", "learning", "arrays!"]
+p using_sort (array)
 
 def using_reverse(array)
 
