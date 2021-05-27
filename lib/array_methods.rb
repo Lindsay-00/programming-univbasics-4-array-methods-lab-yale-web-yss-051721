@@ -24,10 +24,14 @@ def using_first(array)
 end
 using_first (array)
 
-def using_last(array)
 
+def using_last(array)
+  array.last 
 end
+using_last (array)
+
 
 def using_size(array)
-
+  array.size 
 end
+using_size (array)
