@@ -20,8 +20,9 @@ p using_reverse (array)
 
 
 def using_first(array)
-
+  array.first
 end
+using_first (array)
 
 def using_last(array)
 
